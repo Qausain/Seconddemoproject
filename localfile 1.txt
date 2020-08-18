@@ -1,1 +1,3 @@
 New file created to learn local repository
+
+First change is made on this file using git
